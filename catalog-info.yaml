@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-site
+  annotations:
+    github.com/project-slug: tommewong/demo-site
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
