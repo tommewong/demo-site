@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: demo-site
   annotations:
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: tommewong/demo-site
 spec:
   type: other
